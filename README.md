@@ -1,5 +1,7 @@
 # Никнеймы
 
+[![Build status](https://ci.appveyor.com/api/projects/status/uj7w3xn62p2rku8o?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-7-nicknames)
+
 ## Легенда
 
 Вы проанализировали логи вашей игры и заметили, что многие пользователи используют «мусорные» логины и различные непонятные 
