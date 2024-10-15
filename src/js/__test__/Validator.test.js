@@ -10,7 +10,7 @@ test.each([
   [ '_username_', false ],
   [ '7username7', false ],
   [ 'user4444name', false ],
-])(('Testing the `validateUsername()` function from the `validateUsername` class'),
+])(('Testing the `validateUsername()` function of the `Validator` class'),
   (username, expected) => {
     const result = Validator.validateUsername(username);
     expect(result).toBe(expected);
